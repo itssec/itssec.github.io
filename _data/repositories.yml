@@ -1,12 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - Allenpandas
+  - ccfddl
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - Allenpandas/BJTU-Beamer-Theme
+  - Allenpandas/Awesome-Reinforcement-Learning-Papers
+  - ccfddl/ccf-deadlines
+  - Allenpandas/Tutorial4RL
+ 
