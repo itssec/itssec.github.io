@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://itssec.github.io/itssec/sitemap.xml
+Sitemap: https://itssec.github.io//sitemap.xml
